@@ -1,0 +1,95 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+    <head>
+        <title>添加用户</title>
+        <meta http-equiv="content-type" content="text/html;charset=utf-8">
+        <link href="../../../../Public/Admin/css/mine.css" type="text/css" rel="stylesheet">
+        <link rel="stylesheet" type="text/css" href="ADMIN_STATIC/Css/completer.css">
+       
+
+         <style type="text/css">
+            label.error{
+                padding: 5px;
+                margin-left: 5px;
+                color: red;
+            }
+        </style>
+    </head>
+
+    <body>
+
+        <div class="div_head">
+            <span>
+                <span style="float:left">当前位置是：用户管理-》添加用户信息</span>
+                <span style="float:right;margin-right: 8px;font-weight: bold">
+                    <a style="text-decoration: none" href="./admin.php?c=goods&a=showlist">【返回】</a>
+                </span>
+            </span>
+        </div>
+        <div></div>
+
+        <div style="font-size: 13px;margin: 10px 5px">
+			
+            <form action="__SELF__" method="POST" enctype="multipart/form-data" id='add_user_form'/>
+            <table border="1" width="100%" class="table_a">
+                <tr>
+                    <td>用户名称</td>
+                    <td><input type="text" name="name" placeholder='user....'/></td>
+                </tr>
+                <tr>
+                    <td>用户角色</td>
+                    <td>
+                        <select name="roleid">
+                            <option value="0">请选择</option>
+                           
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td>密码</td>
+                    <td>
+                        <input type="password" name="passwd" id='password' placeholder="pass...">
+                    </td>
+                </tr>
+                <tr>
+                    <td>确认密码</td>
+                    <td><input type="password" name="pwd"  placeholder="repwd..."/></td>
+                </tr>
+
+				
+				<tr>
+                    <td>创建时间</td>
+                    <td><input type="text" name="addtime"  placeholder="repwd..."/></td>
+                </tr>
+               
+                
+                
+					
+				<tr>
+                    <td colspan="2" align="center">
+                        <input type="submit" value="添加">
+                    </td>
+                </tr>  
+            </table>
+            </form>
+        </div>
+    </body>
+   <script type="text/javascript" src='ADMIN_STATIC/Js/jquery-1.7.2.min.js'></script>
+
+   <script type="text/javascript" src='ADMIN_STATIC/Js/jquery.validate.min.js'></script>
+   <script type="text/javascript" src='ADMIN_STATIC/Js/validate_zh_cn.js'></script>
+   <script type="text/javascript" src='ADMIN_STATIC/Js/completer.min.js'></script>
+   
+   <script type="text/javascript">
+       
+
+    $("#auto_email").completer({
+        separator: "@",
+        source: ["163.com", "qq.com", "126.com", "139.com", "gmail.com", "hotmail.com", "icloud.com", 'tx.com.cn']
+    });
+
+
+   </script>
+
+   
+</html>

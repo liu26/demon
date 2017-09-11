@@ -1,0 +1,132 @@
+[ 2017-08-15T16:53:50+08:00 ] 127.0.0.1 /index.php/home/index/style/base.css
+ERR: 非法操作:style
+
+[ 2017-08-15T16:53:50+08:00 ] 127.0.0.1 /index.php/home/index/style/footer.css
+ERR: 非法操作:style
+
+[ 2017-08-15T16:53:50+08:00 ] 127.0.0.1 /index.php/home/index/style/header.css
+ERR: 非法操作:style
+
+[ 2017-08-15T16:53:50+08:00 ] 127.0.0.1 /index.php/home/index/style/global.css
+ERR: 非法操作:style
+
+[ 2017-08-15T16:53:50+08:00 ] 127.0.0.1 /index.php/home/index/style/index.css
+ERR: 非法操作:style
+
+[ 2017-08-15T16:53:51+08:00 ] 127.0.0.1 /index.php/home/index/js/jquery-1.8.3.min.js
+ERR: 非法操作:js
+
+[ 2017-08-15T16:53:51+08:00 ] 127.0.0.1 /index.php/home/index/style/bottomnav.css
+ERR: 非法操作:style
+
+[ 2017-08-15T16:53:51+08:00 ] 127.0.0.1 /index.php/home/index/js/header.js
+ERR: 非法操作:js
+
+[ 2017-08-15T16:53:51+08:00 ] 127.0.0.1 /index.php/home/index/js/index.js
+ERR: 非法操作:js
+
+[ 2017-08-15T17:02:07+08:00 ] 127.0.0.1 /index.php/home/index/style/bottomnav.css
+ERR: 非法操作:style
+
+[ 2017-08-15T17:02:07+08:00 ] 127.0.0.1 /index.php/home/index/style/header.css
+ERR: 非法操作:style
+
+[ 2017-08-15T17:02:07+08:00 ] 127.0.0.1 /index.php/home/index/style/global.css
+ERR: 非法操作:style
+
+[ 2017-08-15T17:02:07+08:00 ] 127.0.0.1 /index.php/home/index/style/base.css
+ERR: 非法操作:style
+
+[ 2017-08-15T17:02:07+08:00 ] 127.0.0.1 /index.php/home/index/style/footer.css
+ERR: 非法操作:style
+
+[ 2017-08-15T17:02:07+08:00 ] 127.0.0.1 /index.php/home/index/js/jquery-1.8.3.min.js
+ERR: 非法操作:js
+
+[ 2017-08-15T17:02:08+08:00 ] 127.0.0.1 /index.php/home/index/js/header.js
+ERR: 非法操作:js
+
+[ 2017-08-15T17:02:08+08:00 ] 127.0.0.1 /index.php/home/index/style/index.css
+ERR: 非法操作:style
+
+[ 2017-08-15T17:02:08+08:00 ] 127.0.0.1 /index.php/home/index/js/index.js
+ERR: 非法操作:js
+
+[ 2017-08-15T17:02:08+08:00 ] 127.0.0.1 /index.php/home/index/js/header.js
+ERR: 非法操作:js
+
+[ 2017-08-15T17:02:08+08:00 ] 127.0.0.1 /index.php/home/index/js/index.js
+ERR: 非法操作:js
+
+[ 2017-08-15T17:04:36+08:00 ] 127.0.0.1 /index.php/home/index/style/bottomnav.css
+ERR: 非法操作:style
+
+[ 2017-08-15T17:04:36+08:00 ] 127.0.0.1 /index.php/home/index/style/global.css
+ERR: 非法操作:style
+
+[ 2017-08-15T17:04:36+08:00 ] 127.0.0.1 /index.php/home/index/style/index.css
+ERR: 非法操作:style
+
+[ 2017-08-15T17:04:36+08:00 ] 127.0.0.1 /index.php/home/index/style/base.css
+ERR: 非法操作:style
+
+[ 2017-08-15T17:04:36+08:00 ] 127.0.0.1 /index.php/home/index/style/header.css
+ERR: 非法操作:style
+
+[ 2017-08-15T17:04:36+08:00 ] 127.0.0.1 /index.php/home/index/style/footer.css
+ERR: 非法操作:style
+
+[ 2017-08-15T17:04:36+08:00 ] 127.0.0.1 /index.php/home/index/js/jquery-1.8.3.min.js
+ERR: 非法操作:js
+
+[ 2017-08-15T17:04:36+08:00 ] 127.0.0.1 /index.php/home/index/js/header.js
+ERR: 非法操作:js
+
+[ 2017-08-15T17:04:36+08:00 ] 127.0.0.1 /index.php/home/index/js/index.js
+ERR: 非法操作:js
+
+[ 2017-08-15T18:17:28+08:00 ] 127.0.0.1 /index.php/home/index/index
+ERR: Think\Model:getdate方法不存在！
+
+[ 2017-08-15T18:19:04+08:00 ] 127.0.0.1 /index.php/home/index/index
+ERR: Think\Model:getdate方法不存在！
+
+[ 2017-08-15T18:48:43+08:00 ] 127.0.0.1 /index.php/Home/Index/category/id/31.html
+ERR: 非法操作:category
+
+[ 2017-08-15T18:48:54+08:00 ] 127.0.0.1 /index.php/Home/Index/category/id/31.html
+ERR: 非法操作:category
+
+[ 2017-08-15T18:49:38+08:00 ] 127.0.0.1 /index.php/Home/Index/category/id/33.html
+ERR: 非法操作:category
+
+[ 2017-08-15T18:49:43+08:00 ] 127.0.0.1 /index.php/Home/Index/category/id/30.html
+ERR: 非法操作:category
+
+[ 2017-08-15T18:49:46+08:00 ] 127.0.0.1 /index.php/Home/Index/category/id/29.html
+ERR: 非法操作:category
+
+[ 2017-08-15T18:49:49+08:00 ] 127.0.0.1 /index.php/Home/Index/category/id/31.html
+ERR: 非法操作:category
+
+[ 2017-08-15T18:55:33+08:00 ] 127.0.0.1 /index.php/Home/Index/category/id/34.html
+ERR: 非法操作:category
+
+[ 2017-08-15T18:55:35+08:00 ] 127.0.0.1 /index.php/Home/Index/category/id/34.html
+ERR: 非法操作:category
+
+[ 2017-08-15T18:55:40+08:00 ] 127.0.0.1 /index.php/Home/Index/category/id/34.html
+ERR: 非法操作:category
+
+[ 2017-08-15T19:43:50+08:00 ] 127.0.0.1 /index.php/Home/Index/category/id/29.html
+ERR: 非法操作:category
+
+[ 2017-08-15T19:43:52+08:00 ] 127.0.0.1 /index.php/Home/Index/category/id/30.html
+ERR: 非法操作:category
+
+[ 2017-08-15T20:19:59+08:00 ] 127.0.0.1 /index.php/Home/Index/detail/id/8.html
+ERR: 非法操作:detail
+
+[ 2017-08-15T21:02:03+08:00 ] 127.0.0.1 /index.php/Home/Index/detail/goods_id/8.html
+ERR: 非法操作:detail
+
